@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import streamlit as sl
 
 sl.header('Jogando uma moeda.')
